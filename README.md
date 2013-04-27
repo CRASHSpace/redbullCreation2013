@@ -10,6 +10,9 @@ Firmware for the danger shield input device.
 Video display driver for teensy 3.0 using DMA from:
 http://www.pjrc.com/teensy/td_libs_OctoWS2811.html
 
+- RainbowStripBank
+Display a rainbow pattern on the bank of strip drivers.
+
 
 Testing/exploring of RB shield:
 - ProbeAll
