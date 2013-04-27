@@ -12,6 +12,7 @@ http://www.pjrc.com/teensy/td_libs_OctoWS2811.html
 
 - RainbowStripBank
 Display a rainbow pattern on the bank of strip drivers.
+depends on : https://code.google.com/p/turbull-encabulator/
 
 
 Testing/exploring of RB shield:
