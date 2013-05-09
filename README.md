@@ -25,3 +25,8 @@ Reading of RB shield external flash
 - TestAddrMultiTool
 Confirming firmware bug in RB shield addressable led driver 
 
+
+Processing code for pushing and displaying content on the CrashInspired Star:
+- CrashInspiredTransmitter 
+( another repo forked from HackRockCity in NYC) 
+https://github.com/CRASHSpace/CrashInspiredTransmitter
